@@ -2,7 +2,7 @@
 
 ### Download
 
-<a href="https://raw.githubusercontent.com/Noahreyli/twitter-hozon-ranking.js/main/main.js" target="_blank">main.js</a>  
+<a href="https://raw.githubusercontent.com/tls-client/twitter-hozon-ranking.js/main/main.js" target="_blank">main.js</a>  
 
 ### 対応サイト
 
