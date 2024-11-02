@@ -6,9 +6,9 @@
 // @match        *://twicoco.com/*
 // @match        *://www.twidou.link/*
 // @match        *://erozine.jp/twitter*
-// @updateURL    https://raw.githubusercontent.com/Noahreyli/twitter-hozon-ranking.js/main/main.js
-// @downloadURL  https://raw.githubusercontent.com/Noahreyli/twitter-hozon-ranking.js/main/main.js
-// @homepage     https://github.com/Noahreyli/twitter-hozon-ranking.js
+// @updateURL    https://raw.githubusercontent.com/tls-client/twitter-hozon-ranking.js/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/tls-client/twitter-hozon-ranking.js/main/main.js
+// @homepage     https://github.com/tls-client/twitter-hozon-ranking.js
 // ==/UserScript==
 
 (function() {
