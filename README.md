@@ -1,4 +1,4 @@
-# Twitter保存ランキング 便利版
+## Twitter保存ランキング
 
 ### Download
 
